@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" filePermissions="420" folderPermissions="493">
+    <serverData>
+      <paths name="virtual server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/betask5" local="$PROJECT_DIR$" web="/betask5" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
